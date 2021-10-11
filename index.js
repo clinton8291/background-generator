@@ -1,2 +1,2 @@
-import helloworld from './helloworld';
-helloworld();
+import hello from './helloworld';
+hello();
